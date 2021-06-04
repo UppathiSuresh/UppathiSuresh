@@ -31,5 +31,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
+![Azure Devops](https://img.shields.io/badge/Azure%20-Devops%20-green)&nbsp;
 <br />
