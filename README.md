@@ -1,7 +1,7 @@
 ## Hello World! 👋, I'm Suresh
 
 ### Full Stack Developer from Hyderabad, India
-- 🌱 I’m currently learning **MS Azure, Angular JS**
+- 🌱 I’m currently learning **MS Azure, Angular**
 
 - 👨‍💻 All of my projects are available at [uppathisuresh.github.io](https://uppathisuresh.github.io/)
 
