@@ -32,5 +32,5 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/Azure%20-Devops%20-green)&nbsp;
-![AI](https://img.shields.io/badge/Azure%20-Devops%20-green)&nbsp;
+![AI](https://img.shields.io/badge/AI%20-green)&nbsp;
 <br />
