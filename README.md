@@ -1,8 +1,32 @@
 ## Hello World! 👋, I'm Suresh
 
-### Full Stack Developer from Hyderabad, India
-- 🌱 I’m currently learning **MS Azure, Angular**
+### 🚀 AI & Full-Stack Software Engineer | .NET | Angular | Azure | Generative AI
+- 🌱 I’m currently 💻 Building scalable enterprise applications, distributed systems, and intelligent AI-powered solutions.
 
+### 🧠 What I Do
+
+- ⚡ Backend: C#, .NET Core, ASP.NET MVC, Web API, RESTful APIs, Microservices
+  
+- 🎨 Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3
+  
+- ☁️ Cloud & DevOps: Microsoft Azure, Azure DevOps, Docker, CI/CD
+  
+- 🗄️ Database: SQL Server, SQL Optimization, Stored Procedures
+  
+- 🤖 AI & GenAI: AI Agents, RAG, MCP Servers, OpenAI, LLM Integration
+
+- 🏗️ Architecture: SOLID Principles, Design Patterns, Scalable Systems
+
+### 🚀 Featured Projects
+
+- 📈 StockSearch – AI-powered stock research and market intelligence.
+
+- 🛒 AtShop – Full-stack .NET e-commerce application.
+
+- 🌐 Portfolio Website – Explore my projects, experience, and technical journey.
+
+
+  
 - 👨‍💻 All of my projects are available at [uppathisuresh.github.io](https://uppathisuresh.github.io/)
 
 - 💬 Ask me about **C#, ASP .Net , WeB API , MS SQL, .Net Core, Microsoft Azure**
