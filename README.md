@@ -32,7 +32,7 @@
 [![TechGig](https://img.shields.io/badge/TG-TechGig-green?style=flat&logo=techgig)](https://www.techgig.com/uppathisuresh)&nbsp;
 
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 ![C# .Net](https://img.shields.io/badge/C%23-%20.Net-brightgreen)&nbsp;
 ![Dotnet Core](https://img.shields.io/badge/Dotnet-%20Core-green)&nbsp;
 ![Asp.Net MVC](https://img.shields.io/badge/Asp.Net-%20MVC-green)&nbsp;
