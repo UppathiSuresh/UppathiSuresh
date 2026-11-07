@@ -5,44 +5,34 @@
 
 ### 🧠 What I Do
 
-- ⚡ Backend: C#, .NET Core, ASP.NET MVC, Web API, RESTful APIs, Microservices
-  
-- 🎨 Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3
-  
-- ☁️ Cloud & DevOps: Microsoft Azure, Azure DevOps, Docker, CI/CD
-  
-- 🗄️ Database: SQL Server, SQL Optimization, Stored Procedures
-  
-- 🤖 AI & GenAI: AI Agents, RAG, MCP Servers, OpenAI, LLM Integration
+- ⚡ **Backend:** C#, .NET Core, ASP.NET MVC, Web API, RESTful APIs, Microservices
 
-- 🏗️ Architecture: SOLID Principles, Design Patterns, Scalable Systems
+-  🤖 **AI & GenAI:** AI Agents, RAG, MCP Servers, OpenAI, LLM Integration
+  
+- 🎨 **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3
+  
+- ☁️ **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Docker, CI/CD
+  
+- 🗄️ **Database:** SQL Server, SQL Optimization, Stored Procedures
+
+- 🏗️ **Architecture:** SOLID Principles, Design Patterns, Scalable Systems
 
 ### 🚀 Featured Projects
+
+- 🌐 [Portfolio](https://uppathisuresh.github.io/) – Explore my projects, experience, and technical journey.
 
 - 📈 StockSearch – AI-powered stock research and market intelligence.
 
 - 🛒 AtShop – Full-stack .NET e-commerce application.
 
-- 🌐 Portfolio Website – Explore my projects, experience, and technical journey.
-
-
-  
-- 👨‍💻 All of my projects are available at [uppathisuresh.github.io](https://uppathisuresh.github.io/)
-
-- 💬 Ask me about **C#, ASP .Net , WeB API , MS SQL, .Net Core, Microsoft Azure**
-
-- 📄 Know about my experiences @ [profile](https://uppathisuresh.github.io/img/UppathiSuresh-SoftwareEngineerwith8years.pdf)
-
-- ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Swimming.**
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://in.linkedin.com/in/suresh-uppathi)&nbsp;
+### 🤝 Connect with me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reddy@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-uppathi/)&nbsp;
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/sureshuppathi)&nbsp;
 [![TechGig](https://img.shields.io/badge/TG-TechGig-green?style=flat&logo=techgig)](https://www.techgig.com/uppathisuresh)&nbsp;
 
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 ![C# .Net](https://img.shields.io/badge/C%23-%20.Net-brightgreen)&nbsp;
 ![Dotnet Core](https://img.shields.io/badge/Dotnet-%20Core-green)&nbsp;
 ![Asp.Net MVC](https://img.shields.io/badge/Asp.Net-%20MVC-green)&nbsp;
